@@ -1,0 +1,6 @@
+{
+    "produtos": [
+        { "id": 1, "nome": "PS4 Dual Sense ", "descricao": "PS4 Dual Sense, 2 Controles, SSD 1TB Durable", "preco": 3000, "imagem": "" },
+        { "id": 2, "nome": "PS5 Dual Sense ", "descricao": "PS5 Dual Sense, 2 Controles, SSD 2TB Durable", "preco": 4500, "imagem": "" }
+    ]
+}
