@@ -25,10 +25,10 @@ export default function Exercicio4() {
     }
 
     return (
-        <div className="flex flex-col bg-black text-white justify-center">
+        <div className="flex flex-col justify-center gap-3 bg-black text-white">
             <h1 className="px-3 py-2 bg-green-600 w-726 text-center">Exercicio 4. Arrays</h1>
 
-            <div className="flex gap-3">
+            <div className="flex gap-3 w-full justify-center">
                 
                 <h3>{spans}</h3>
                

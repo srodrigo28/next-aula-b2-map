@@ -8,10 +8,10 @@ export default function Exercicio5() {
     ]
 
     return (
-        <div className="flex flex-col bg-black text-white justify-center">
+        <div className="flex flex-col justify-center gap-3 bg-black text-white">
             <h1 className="px-3 py-2 bg-green-600 w-726 text-center">Exercicio 5. Arrays</h1>
 
-            <div className="flex gap-3">
+            <div className="flex gap-3 justify-center">
                 <div className="flex flex-col items-center justify-center p-10 gap-3 mt-5 bg-zinc-900 w-64">
                     {listaDeAprovados.map( item => (
                         <div key={item} className="bg-black p-2 w-56 flex justify-between items-center">

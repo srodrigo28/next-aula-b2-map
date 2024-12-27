@@ -1,6 +1,6 @@
 export default function Comp1(){
     return(
-        <div>
+        <div className="h-screen bg-black overflow-hidden">
             
         </div>
     )

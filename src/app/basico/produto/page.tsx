@@ -30,7 +30,7 @@ export default function Produto() {
   }
 
   return (
-    <div className="flex flex-col gap-5 w-screen h-screen items-center justify-center bg-black">
+    <div className="flex flex-col justify-center gap-3 bg-black text-white">
       <form className="flex gap-2 p-5 text-white flex-col bg-zinc-700 w-full md:w-[400] h-[330]">
         <h2 className="font-bold mb-2 text-2xl">Cadastro de Produtos</h2>
         
